@@ -1,0 +1,9 @@
+{
+    "increment": "Incrémenter",
+    "decrement": "Décrémenter",
+    "count": "Compte",
+    "countN": "Compte: {0}",
+    "reset": "Réinitialiser",
+    "english": "Anglais",
+    "french": "Français"
+}

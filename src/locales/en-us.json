@@ -1,0 +1,9 @@
+{
+    "increment": "Increment",
+    "decrement": "Decrement",
+    "count": "Count",
+    "countN": "Count: {0}",
+    "reset": "Reset",
+    "english": "English",
+    "french": "French"
+}
